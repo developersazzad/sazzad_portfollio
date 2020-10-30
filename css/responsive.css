@@ -1,0 +1,40 @@
+@media (max-width:576px) {
+  .carousel-item{
+    height:400px;
+  }
+  .box_contuct_us{
+    margin-right:0 !important;
+  }
+  .box_contuct_un{
+     margin-left:0 !important;
+  }
+.carousel-caption h1{
+  font-size:3rem;
+}
+h2.heading_corse{
+  font-size:24px !important;
+}
+  .carousel-caption{
+  margin-bottom:2rem !important;
+  padding-bottom:2rem !important;
+  }
+  .Get_start_section{
+    height:300px !important;
+   padding: 30px !important;
+  }
+
+}
+@media (max-width:360px) {
+  .Get_start_section{
+    height:290px !important;
+   padding: 20px !important;
+  }
+  h2{
+    margin-top:15px;
+    font-size:22px !important;
+  }
+  p{
+    font-size:16px!important;
+  }
+
+}
